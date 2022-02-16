@@ -4,8 +4,13 @@ description: Lecture notes on the fundamental ellipse of the BVP, orbital elemen
   of the fundamental (minimum eccentricity) ellipse, locus of mean points, the line
   segment FS, eccentric anomaly of the mean-point, mean-point radius of the parabolic
   orbit, and mean-point radius of elliptic and hyperbolic orbits.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/16-346-astrodynamics-fall-2008/6816d2bf262f1ddab21364e16cf1d553_lec_15.pdf
+file: /media/courses/16-346-astrodynamics-fall-2008/6816d2bf262f1ddab21364e16cf1d553_lec_15.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: The Fundamental Ellipse of the BVP
 uid: 6816d2bf-262f-1dda-b213-64e16cf1d553

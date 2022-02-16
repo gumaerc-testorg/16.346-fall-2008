@@ -5,8 +5,13 @@ description: "Lecture notes on Newton's two-body equations of motion, conservati
   \ Kepler\u2019s second law, eccentricity vector, Kepler\u2019s first law, Kepler\u2019\
   s third law, units for numerical calculations, Josiah Eillard Gibbs (1839-1908),\
   \ and Gibb\u2019s method of orbit determination."
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/16-346-astrodynamics-fall-2008/6bf51b7353a4a3b2ec4c4819091e57c2_lec_01.pdf
+file: /media/courses/16-346-astrodynamics-fall-2008/6bf51b7353a4a3b2ec4c4819091e57c2_lec_01.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: The Two Body Problem
 uid: 6bf51b73-53a4-a3b2-ec4c-4819091e57c2
