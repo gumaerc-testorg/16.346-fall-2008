@@ -11,6 +11,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: a1a1abb8-4dab-27d9-534c-f2b87a3fc3af
 resourcetype: Document
 title: Effect of J2 on a satellite orbit of the Earth
 uid: 1a557e26-4b9e-c2e5-c71c-39ed62d84c1d

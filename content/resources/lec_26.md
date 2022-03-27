@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: a1a1abb8-4dab-27d9-534c-f2b87a3fc3af
 resourcetype: Document
 title: The Clohessy-Wiltshire Equations of Relative Motion
 uid: e4f0632a-9f1c-98f7-e9b2-5492e1a30eb1

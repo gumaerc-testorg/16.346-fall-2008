@@ -11,6 +11,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: a1a1abb8-4dab-27d9-534c-f2b87a3fc3af
 resourcetype: Document
 title: Non-singular "Gauss-like" method for the BVP
 uid: e8c37352-3cc5-2a15-7f4c-9d090ad26d83
