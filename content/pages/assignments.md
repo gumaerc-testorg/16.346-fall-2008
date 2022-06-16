@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides a selection of the course assignments. Some problems
+  include solutions.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -33,7 +35,7 @@ EXERCISES
 The two-body problem
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/ex_01))
+({{% resource_link 6655b3fb-e635-1e78-6409-1845c4920c42 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -45,7 +47,7 @@ The two-body problem
 The two-body problem (cont.)
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/ex_02))
+({{% resource_link 8f8b0f3e-a9ee-1c77-2ed3-57c72e0e7c3f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -57,7 +59,7 @@ The two-body problem (cont.)
 Barker's equation and Kepler's equation
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/ex_03))
+({{% resource_link 38c60671-30ba-bf8a-0e69-3a86ae281b7c "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -69,7 +71,7 @@ Barker's equation and Kepler's equation
 The initial-value problem
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/ex_04))
+({{% resource_link 1aa7f08f-241e-2b07-85c3-d554e7aba489 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -81,7 +83,7 @@ The initial-value problem
 Euler angles
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/ex_05))
+({{% resource_link 0f20d4a6-3c48-1a76-7477-3a438b7a1573 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -93,7 +95,7 @@ Euler angles
 The orbital boundary-value problem (BVP)
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/ex_06))
+({{% resource_link c61741c7-0155-4cbf-4c59-2960ef3ba0f6 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -105,7 +107,7 @@ The orbital boundary-value problem (BVP)
 Optimum orbital transfer
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/ex_07))
+({{% resource_link 51b11910-1565-4a9a-a9e4-dcb1fbb747ac "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -117,7 +119,7 @@ Optimum orbital transfer
 Analytical and geometric properties of the BVP
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/ex_08))
+({{% resource_link 43a9dafd-f1c6-1141-a017-a5fc95bcdebe "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -129,7 +131,7 @@ Analytical and geometric properties of the BVP
 Lambert's theorem and the Lagrange time equation
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/ex_09))
+({{% resource_link b2a954d1-53d4-1d16-d60b-22897712aa66 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -141,7 +143,7 @@ Lambert's theorem and the Lagrange time equation
 Transformation of the BVP
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/ex_10))
+({{% resource_link 8505accb-366b-322c-c1f5-7b5cbfd15cea "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -153,7 +155,7 @@ Transformation of the BVP
 Patched conics and planetary flybys
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/ex_12))
+({{% resource_link 046eded4-4f9f-6cd3-aa61-7e6ad1c1c8ea "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -165,7 +167,7 @@ Patched conics and planetary flybys
 Hypergeometric functions and continued fractions
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/ex_14))
+({{% resource_link 2986fd02-4902-171c-52ec-00378bac3fb9 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -177,7 +179,7 @@ Hypergeometric functions and continued fractions
 Preliminary orbit determination using Taylor series
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/ex_18))
+({{% resource_link d0ba8e46-2e14-9778-cb09-7aab9a6ba7cf "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -189,7 +191,7 @@ Preliminary orbit determination using Taylor series
 The covariance, information, and estimator matrices
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/ex_22))
+({{% resource_link 2357544f-b19d-63f8-044a-f7959f9d27de "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -201,7 +203,7 @@ The covariance, information, and estimator matrices
 The Clohessy-Wiltshire equations of relative motion
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/ex_26))
+({{% resource_link 2be52a12-1a87-202f-b4e7-57865a355657 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -213,7 +215,7 @@ The Clohessy-Wiltshire equations of relative motion
 Runge-Kutta method of numerical integration
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/ex_33))
+({{% resource_link f4292711-27c0-794a-a72c-5d7fcd7b336e "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

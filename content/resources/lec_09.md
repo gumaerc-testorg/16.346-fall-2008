@@ -4,7 +4,7 @@ description: "Lecture notes on the theorem of Johann Heinrich Lambert, developin
   \ Lagrange\u2019s equations, Lagrange\u2019s time equation, Euler\u2019s equation\
   \ for parabolic orbits, the orbital parameter, and skewed-velocity components in\
   \ terms of the semimajor axis."
-file: /media/courses/16-346-astrodynamics-fall-2008/325aba5c735d9f622fb7116985b5ab19_lec_09.pdf
+file: /courses/16-346-astrodynamics-fall-2008/325aba5c735d9f622fb7116985b5ab19_lec_09.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
@@ -16,3 +16,5 @@ resourcetype: Document
 title: Lambert's Theorem and the Lagrange Time Equation
 uid: 325aba5c-735d-9f62-2fb7-116985b5ab19
 ---
+Lecture notes on the theorem of Johann Heinrich Lambert, developing Lagrange’s equations, Lagrange’s time equation, Euler’s equation for parabolic orbits, the orbital parameter, and skewed-velocity components in terms of the semimajor axis.
+
