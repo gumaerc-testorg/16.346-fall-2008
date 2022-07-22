@@ -9,6 +9,7 @@ file: /courses/16-346-astrodynamics-fall-2008/49ded43faed5c184effdf8b27d6422b9_l
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: Hypergeometric Functions and Continued Fractions
 uid: 49ded43f-aed5-c184-effd-f8b27d6422b9
 ---
 Lecture notes on John Wallis’ hypergeometric series, hypergeometric function, examples of hypergeometric functions, Gauss’ diﬀerential equation, Gauss’ continued fraction expansion, suﬃcient conditions for convergence of continued fractions, the top-down method for evaluating continued fractions, and continued fractions versus power series.
-

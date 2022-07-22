@@ -10,6 +10,7 @@ file: /courses/16-346-astrodynamics-fall-2008/87431d1d0bfd2488fe402067e0afcb59_l
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -19,4 +20,3 @@ title: The Initial-Value Problem
 uid: 87431d1d-0bfd-2488-fe40-2067e0afcb59
 ---
 Lecture notes on the initial-value problem, polar coordinates and orbital plane coordinates, representation in the hodograph plane, flight-direction angle, Lagrange coeﬃcients in terms of the true anomaly diﬀerence, Lagrange coeﬃcients in terms of the eccentric anomaly diﬀerence, Lagrangian coeﬃcients for parabolic orbits, solving the generalized form of Barker’s equation, and construction of a parabola and its tangents.
-

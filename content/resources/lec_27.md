@@ -8,6 +8,7 @@ file: /courses/16-346-astrodynamics-fall-2008/5fab182cff3f433ff219cde000444e06_l
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: Variation of Parameters
 uid: 5fab182c-ff3f-433f-f219-cde000444e06
 ---
 Lecture notes on Lagrange’s variational methods for linear equations, derivation of the variational equations, variation of the classical elements, Gauss’ form of Lagrange’s variational equations in polar coordinates, and Gauss’ form of the variational equations in tangential-normal coordinates.
-

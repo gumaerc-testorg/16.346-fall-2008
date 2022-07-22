@@ -7,6 +7,7 @@ file: /courses/16-346-astrodynamics-fall-2008/dbce406df8d13e052f9229880ed96c02_l
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: The Two Body Problem Continued
 uid: dbce406d-f8d1-3e05-2f92-29880ed96c02
 ---
 Lecture notes on the two body problem, the explicit form of the velocity vector, conservation of energy, conic sections, alternate forms of the equation of orbit, and basic two-body relations.
-
