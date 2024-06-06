@@ -6,6 +6,7 @@ description: "Lecture notes on John Wallis\u2019 hypergeometric series, hypergeo
   \ of continued fractions, the top-down method for evaluating continued fractions,\
   \ and continued fractions versus power series."
 file: /courses/16-346-astrodynamics-fall-2008/49ded43faed5c184effdf8b27d6422b9_lec_14.pdf
+file_size: 137454
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

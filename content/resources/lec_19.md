@@ -4,6 +4,7 @@ description: "Lecture notes on the state transition matrix, linearization of the
   \ of motion, symplectic matrices, fundamental perturbation matrices, di\uFB00erential\
   \ equations, and midcourse orbit corrections."
 file: /courses/16-346-astrodynamics-fall-2008/a88bf1b4e2238cd921b395993a22bb28_lec_19.pdf
+file_size: 168721
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
