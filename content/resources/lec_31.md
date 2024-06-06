@@ -5,6 +5,7 @@ description: "Lecture notes on the brachistochrone problem, deriving Euler\u2019
   \ problem, terminal state vector control, and lunar-landing guidance for Apollo\
   \ missions."
 file: /courses/16-346-astrodynamics-fall-2008/cd24992ebf5a375adcaad927dbbaa5a8_lec_31.pdf
+file_size: 138345
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

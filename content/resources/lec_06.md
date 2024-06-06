@@ -7,6 +7,7 @@ description: "Lecture notes on the orbital boundary-value problem, using the Lag
   \ hyperbolic locus of velocity vectors for the boundary-value problem, application\
   \ to flight-path angle control."
 file: /courses/16-346-astrodynamics-fall-2008/d7ff3189af5da0dc0edf88a29deae4c5_lec_06.pdf
+file_size: 477535
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
