@@ -4,6 +4,7 @@ description: "Lecture notes on the effect of atmospheric drag on satellite orbit
   \ terminology, the variational equation, series representation, and calculating\
   \ modi\uFB01ed Bessel functions."
 file: /courses/16-346-astrodynamics-fall-2008/821eea8e59931990b954f9af04dd754a_lec_28.pdf
+file_size: 120707
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

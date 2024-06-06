@@ -5,6 +5,7 @@ description: Lecture notes on the covariance matrix, a matrix identity (the magi
   of the P matrix, properties of the estimator, recursive form of the estimator, and
   triangular square roots.
 file: /courses/16-346-astrodynamics-fall-2008/311d5c5c6ad73b874fc534fb20e2081a_lec_22.pdf
+file_size: 158422
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

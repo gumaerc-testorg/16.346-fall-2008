@@ -4,6 +4,7 @@ description: Lecture notes on basic elements of the three body problem, the rota
   matrix, kinematics in rotating coordinates, and the Lagrange solutions of the three-body
   problem.
 file: /courses/16-346-astrodynamics-fall-2008/999a8785043086e3d28816b3f98ce01a_lec_24.pdf
+file_size: 168958
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

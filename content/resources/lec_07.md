@@ -7,6 +7,7 @@ description: Lecture notes on optimum orbital transfer, velocity requirements fo
   transfer, and minimum departure velocity for orbital transfer from Earth to the
   planets.
 file: /courses/16-346-astrodynamics-fall-2008/7d1da2ed4c4b8b541f4751bece4dd9ec_lec_07.pdf
+file_size: 222309
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

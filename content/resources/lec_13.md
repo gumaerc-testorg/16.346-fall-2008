@@ -5,6 +5,7 @@ description: "Lecture notes on Gauss' method for the time-constrained BVP, Lagra
   \ axis, Gauss\u2019s time equation, the universal form of Gauss\u2019 method, and\
   \ Gauss\u2019 successive substitution algorithm."
 file: /courses/16-346-astrodynamics-fall-2008/45527af4f7671785ca1438869b045dcd_lec_13.pdf
+file_size: 167837
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

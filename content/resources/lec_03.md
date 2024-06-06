@@ -4,6 +4,7 @@ description: "Lecture notes on the equation of a parabolic orbit, Barker's equat
   \ elliptic orbits and the eccentric anomaly, Kepler\u2019s equation, and theory\
   \ of the motion of the heavenly bodies moving about the sun in conic sections."
 file: /courses/16-346-astrodynamics-fall-2008/379eae1a78cf9ad58247058dffbae3ac_lec_03.pdf
+file_size: 303524
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

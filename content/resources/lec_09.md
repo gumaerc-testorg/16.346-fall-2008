@@ -5,6 +5,7 @@ description: "Lecture notes on the theorem of Johann Heinrich Lambert, developin
   \ for parabolic orbits, the orbital parameter, and skewed-velocity components in\
   \ terms of the semimajor axis."
 file: /courses/16-346-astrodynamics-fall-2008/325aba5c735d9f622fb7116985b5ab19_lec_09.pdf
+file_size: 157377
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
