@@ -3,7 +3,7 @@ content_type: resource
 description: Lecture notes on powered flight guidance to maximize final energy, a
   Lagrange multipliers example, thrust vector attitude control to maximize total energy,
   and iterated guidance mode.
-file: /courses/16-346-astrodynamics-fall-2008/6faaed9e0beaf7a3e133026935416b3b_lec_32.pdf
+file: /ol-ocw-studio-app/courses/16-346-astrodynamics-fall-2008/6faaed9e0beaf7a3e133026935416b3b_lec_32.pdf
 file_size: 114645
 file_type: application/pdf
 learning_resource_types:
