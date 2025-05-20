@@ -2,7 +2,7 @@
 content_type: resource
 description: "Lecture notes on transformation of the boundary-value problem, Lambert\u2019\
   s theorem, and transformation of the four basic ellipses."
-file: /ol-ocw-studio-app/courses/16-346-astrodynamics-fall-2008/afcabdcf9936ca8b3919353d0c999af7_lec_10.pdf
+file: /courses/16-346-astrodynamics-fall-2008/afcabdcf9936ca8b3919353d0c999af7_lec_10.pdf
 file_size: 347790
 file_type: application/pdf
 learning_resource_types:

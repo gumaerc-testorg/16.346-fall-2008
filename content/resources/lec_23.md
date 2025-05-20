@@ -4,7 +4,7 @@ description: "Lecture notes on estimation of position and velocity in space navi
   \ recursive formulation of the navigation algorithm, propagating the covariance\
   \ matrix P and the error transition matrix W, Encke\u2019s method of orbital integration,\
   \ Encke\u2019s method, navigating to Mars, and navigating to the Moon."
-file: /ol-ocw-studio-app/courses/16-346-astrodynamics-fall-2008/1b3878cba2135f661e065dddb78f548d_lec_23.pdf
+file: /courses/16-346-astrodynamics-fall-2008/1b3878cba2135f661e065dddb78f548d_lec_23.pdf
 file_size: 353009
 file_type: application/pdf
 learning_resource_types:
