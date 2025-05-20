@@ -4,7 +4,7 @@ description: "Lecture notes on variational equations using the disturbing functi
   \ Lagrange\u2019s planetary equations, e\uFB00ect of the second dynamic form factor\
   \ term on satellite orbits, averaged variational equations, and coe\uFB03cients\
   \ of the Earth\u2019s gravitational potential."
-file: /ol-ocw-studio-app/courses/16-346-astrodynamics-fall-2008/1a557e264b9ec2e5c71c39ed62d84c1d_lec_30.pdf
+file: /courses/16-346-astrodynamics-fall-2008/1a557e264b9ec2e5c71c39ed62d84c1d_lec_30.pdf
 file_size: 147764
 file_type: application/pdf
 learning_resource_types:

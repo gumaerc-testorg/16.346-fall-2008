@@ -4,7 +4,7 @@ description: "Lecture notes on preliminary orbit determination using Taylor seri
   \ approximate solution of the BVP using Taylor\u2019s series, another method of\
   \ Gibbs using Taylor series, \xC9tienne B\xE9zout\u2019s theorem, Laplace\u2019\
   s method, and Lagrange\u2019s interpolation formulas."
-file: /ol-ocw-studio-app/courses/16-346-astrodynamics-fall-2008/2e5e96a3ee7e5be8f42c4653fd9395ca_lec_18.pdf
+file: /courses/16-346-astrodynamics-fall-2008/2e5e96a3ee7e5be8f42c4653fd9395ca_lec_18.pdf
 file_size: 175674
 file_type: application/pdf
 learning_resource_types:
