@@ -6,7 +6,7 @@ description: "Lecture notes on the initial-value problem, polar coordinates and 
   \ coe\uFB03cients in terms of the eccentric anomaly di\uFB00erence, Lagrangian coe\uFB03\
   cients for parabolic orbits, solving the generalized form of Barker\u2019s equation,\
   \ and construction of a parabola and its tangents."
-file: /courses/16-346-astrodynamics-fall-2008/87431d1d0bfd2488fe402067e0afcb59_lec_04.pdf
+file: /ol-ocw-studio-app/courses/16-346-astrodynamics-fall-2008/87431d1d0bfd2488fe402067e0afcb59_lec_04.pdf
 file_size: 173974
 file_type: application/pdf
 learning_resource_types:
