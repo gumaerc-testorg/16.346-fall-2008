@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/16-346-astrodynamics-fall-2008/41ef390c5da842ba470cefd0160ce043_SJI-SAs1Rnk.srt
+file: /ol-ocw-studio-app/courses/16-346-astrodynamics-fall-2008/41ef390c5da842ba470cefd0160ce043_SJI-SAs1Rnk.srt
 file_size: 82634
 file_type: application/x-subrip
 learning_resource_types: []
